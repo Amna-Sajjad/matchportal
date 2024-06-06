@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103362545459",
+    "project_id": "matchportal-ee633",
+    "storage_bucket": "matchportal-ee633.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103362545459:android:dca35c25f5bf70bbe22046",
+        "android_client_info": {
+          "package_name": "com.example.match_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103362545459-kfjfpq1t2k0vcetslb2s9sg79eui6dmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0yPkq9cwPDu52S-xSAUs6OLyNq3bI8b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103362545459-kfjfpq1t2k0vcetslb2s9sg79eui6dmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
